@@ -7,7 +7,7 @@ public class MedianOfTwoSortedArrays {
         System.out.println(findMedianSortedArrays(
                 new int[]{1, 2, 3, 4},
                 new int[]{5, 6, 7}
-        )); // 2.0
+        )); // 4.0
 
         System.out.println(findMedianSortedArrays(
                 new int[]{1, 3},
