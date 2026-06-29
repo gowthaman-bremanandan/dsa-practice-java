@@ -9,8 +9,8 @@ public class LogEntryChecker {
     public static void main(String[] args) {
 
         // Provide folder path and search message here
-        String folderPath = "D:\\Temp\\Customer doc\\spoicdr error\\2026_02_10_12_20_27_u_FuboOZTf60KvFiW\\u_Mkz8kTFxz21MA2I\\logs_20261101324633_roznxb\\logs";   // change this
-        String searchMessage = "Traffic Reports GetSPOUsageStats for siteUrl";  // change this
+        String folderPath = "D:\\Temp\\Customer logs\\High java memory\\2026_03_09_11_04_00_u_NqxgNsmnyKPnEgs\\u_pI4T3PJol9LfrN8\\13917192_2026295556555_ylpkm4";   // change this
+        String searchMessage = "In the case of a Federated user(that is owned by a federated IdP";  // change this
 
         searchLogs(folderPath, searchMessage);
     }
